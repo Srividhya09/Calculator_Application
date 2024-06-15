@@ -34,4 +34,7 @@ python calculator.py
 - Use the `M+` and `M-` buttons to add to and subtract from memory, respectively.
 - Press `C` to clear the current input.
 - Press `=` to compute the result of the operation.
+  
+#Screenshot of my output
 
+![Screenshot (195)](https://github.com/Srividhya09/Calculator_Application/assets/170795002/0899a3fe-36fb-466f-b9fb-60fd5da882fd)
